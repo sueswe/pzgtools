@@ -1,0 +1,30 @@
+
+
+PZG-Tools v2.0rc2 for Linux i386
+from 22.Sep.2007
+
+
+-------------
+INSTALLATION
+-------------
+
+Just copy all files in the bin-directory
+as root to /usr/local/bin and make
+a link on your Desktop to 
+/usr/local/bin/PZGTools2
+
+Get sure that the files are executable
+for all users.
+
+
+-------------
+REQUIREMENTS
+-------------
+
+Following has to be installed
+on your system:
+
+(1) Perl
+(2) GnuPlot
+(3) QWT/QT4-libraries
+
